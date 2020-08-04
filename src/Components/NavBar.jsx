@@ -99,7 +99,7 @@ const NavBar = () => {
       component="div"
       onClick={toggleSlider("left", false)}
     >
-      <Typography className={classes.sideBarHeading}>Muhammad Bilal</Typography>
+      <Typography className={classes.sideBarHeading}>Ali raza Zafar</Typography>
       <Divider className={classes.divider} />
       <List>
         {genericListIcons.map((item, key) => (
